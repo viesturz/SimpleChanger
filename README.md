@@ -5,7 +5,7 @@ Inspired by [Tapchanger](https://github.com/viesturz/tapchanger) and [Stealthcha
 
 ## How is this different?
 
-SimpleChanger is trying to capitalize on the following:
+LiteChanger is trying to capitalize on the following:
 * Using a hotend with a built-in nozzle probe, like Revo PZ
 * Very simple two point docking mechanism with magnets for the rest
 * Use hotend's heatsink as a structural element.
