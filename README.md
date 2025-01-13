@@ -5,7 +5,7 @@ Inspired by [Tapchanger](https://github.com/viesturz/tapchanger) and [Stealthcha
 
 ## How is this different?
 
-LiteChanger is trying to capitalize on the following:
+SimpleChanger is trying to capitalize on the following:
 * Using a hotend with a built-in nozzle probe, like Revo PZ
 * Very simple two point docking mechanism with magnets for the rest
 * Use hotend's heatsink as a structural element.
@@ -14,9 +14,9 @@ While keeping it simple with no wires to the shuttle.
 
 The presumtion is that by placing the holddown pins close to the center of mass, the rest of the holding force can be provided by a number of 6x3 magnets. And resulting weight reduction should further help.
 
-# Work in progress
+# No more work here
 
-Everything here is new and untested, use at your own risk.
+This was abandoned in favor to [ClickChanger](https://github.com/viesturz/ClickChanger).
 
 Fully assemebled prototype currently comes in at 240 grams, testing to start soon.
 
